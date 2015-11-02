@@ -1,0 +1,5 @@
+iduser,username,password,email,regdate,usertype,active,description,avatar
+4,JIYO,f00f597643cb168ff249fa0698347e47c57e5678,admin@amitinsdie.co.in,"2012-06-08 21:09:00"," regular moderator",1,<p>gg</p>,
+3,amit,f50241996026b22fca43731aa734caa7cf54a1c2,admin12@amitinsdie.com,"2012-06-12 20:23:00"," regular moderator",1,,
+2,joy,f50241996026b22fca43731aa734caa7cf54a1c2,admin2@amitinsdie.com,"2012-06-05 17:52:00"," regular",1,,
+1,amitt,f50241996026b22fca43731aa734caa7cf54a1c2,admin@amitinsdie.com,"2012-06-13 17:50:00"," regular moderator administrator",1,,
